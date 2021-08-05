@@ -1,5 +1,1 @@
-{
-  "dependencies": {
-    "init": "^0.1.2"
-  }
-}
+{"scripts":{"dev":"nodemon app.js"},"dependencies":{"express":"^4.17.1","init":"^0.1.2","pug":"^3.0.2"},"devDependencies":{"nodemon":"^2.0.12"}}
